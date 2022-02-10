@@ -87,7 +87,7 @@ For more information and test go to [/Example](https://github.com/eftalyurtseven
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate .
 
 ## Contributors
 [![Joaquin Beceiro](https://avatars0.githubusercontent.com/u/10049759?s=50 "Joaquin Beceiro")](https://github.com/JoaquinBeceiro)
